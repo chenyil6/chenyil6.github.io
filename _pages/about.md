@@ -18,7 +18,7 @@ My research interests lie at:
 
 Southeast University , *09/2023 - present*
 
-* Mphil. in Artificial Intelligence. Advisor: [Guilin Qi](https://yangxuntu.github.io/)
+* Mphil. in Artificial Intelligence. Advisor: [Xu Yang](https://yangxuntu.github.io/)
 
 Monash University , *09/2022 - present*
 
