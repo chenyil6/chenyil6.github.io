@@ -37,19 +37,16 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 
 
 <div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
-  <!-- 左侧论文架构图 -->
-  <div style="flex: 0 0 220px; background: white; padding: 12px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+  <!-- 纯图片展示区（无文字） -->
+  <div style="flex: 0 0 220px;">
     <img src="/images/cvpr2024.jpg" 
-         style="width:100%; border:1px solid #f0f0f0;">
-    <div style="font-size: 0.8em; color: #666; text-align: center; margin-top: 8px;">
-      <span style="background:#4a89dc; width:12px; height:12px; display:inline-block; vertical-align: middle;"></span> Selected Neuron
-    </div>
+         style="width:100%; border-radius: 4px; border:1px solid #f0f0f0;">
   </div>
 
   <!-- 右侧论文信息 -->
   <div style="flex: 1;">
-    <div style="font-weight: 600; color: #333; margin-bottom: 5px;">
-      Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <u>Huiyi Chen</u><sup>*</sup>, Chongyang Gao, Xu Yang
+    <div style="font-weight: normal; color: #333; margin-bottom: 5px;">
+        Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
     </div>
     
     <div style="font-size: 1.1em; margin-bottom: 8px;">
@@ -58,7 +55,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     </div>
 
     <div style="color: #6a737d; margin-bottom: 10px;">
-      <em>CVPR 2024 (Poster)</em> | 
+      CVPR 2024 (Poster) | 
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" style="color: #586069;">PDF</a> | 
       <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA" style="color: #586069;">Code</a> | 
     </div>
