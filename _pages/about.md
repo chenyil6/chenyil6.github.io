@@ -51,7 +51,6 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     
     <div style="font-size: 1.1em; margin-bottom: 8px;">
         How to Configure Good In-Context Sequence for Visual Question Answering
-      </a>
     </div>
 
     <div style="color: #6a737d; margin-bottom: 10px;">
