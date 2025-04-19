@@ -49,14 +49,14 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
         Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
     </div>
     
-    <div style="font-size: 1.1em; margin-bottom: 8px;">
+    <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
         How to Configure Good In-Context Sequence for Visual Question Answering
     </div>
 
-    <div style="color: #6a737d; margin-bottom: 10px;">
+    <div style="color: #4D75C6; margin-bottom: 10px;">
       CVPR 2024 (Poster) | 
-      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" style="color: #586069;">PDF</a> | 
-      <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA" style="color: #586069;">Code</a> | 
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" style="color: #4D75C6;">PDF</a> | 
+      <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA" style="color: #4D75C6;">Code</a> | 
     </div>
 
   </div>
