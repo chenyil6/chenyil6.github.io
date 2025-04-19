@@ -47,11 +47,11 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <div style="flex: 1;">
     
     
-    <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
+    <div style="font-size: 1.1em; margin-bottom: 8px; color: #333">
         How to Configure Good In-Context Sequence for Visual Question Answering
     </div>
 
-    <div style="font-weight: normal; color: #333; margin-bottom: 5px;">
+    <div style="font-weight: normal; color: #333; margin-bottom: 5px; margin-top: 5px">
         Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
     </div>
 
@@ -76,11 +76,11 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <div style="flex: 1;">
     
     
-    <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
+    <div style="font-size: 1.1em; margin-bottom: 8px; color: #333">
         Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
     </div>
 
-    <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 5px;">
+    <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 5px;margin-top: 5px">
         <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang
     </div>
 
