@@ -12,7 +12,7 @@ title                    : "Huiyi Chen, 陈慧仪"
 title_separator          : "-"
 name                     : &name "Huiyi Chen"
 description              : &description "M.S.@ SEU & Monash"
-url                      : https://chenyil6.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenyil6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyil6.github.io"
 
