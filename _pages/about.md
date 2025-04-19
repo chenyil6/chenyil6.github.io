@@ -22,7 +22,7 @@ Southeast University , *09/2023 - present*
 
 Monash University , *09/2022 - present*
 
-* M.S. in nformation Technology Systems.
+* M.S. in information Technology Systems.
 
 Nanchang Hangkong University , *09/2019 - 06/2023*
 
