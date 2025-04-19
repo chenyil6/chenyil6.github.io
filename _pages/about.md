@@ -56,7 +56,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     </div>
 
     
-    <div style="color: #4F4F4F; font-size: 0.9em; margin: 6px 0 10px;">
+    <div style="color: #4F4F4F; font-size: 0.9em; margin: 6px 0 5px;">
       CVPR 2024 (Poster) | 
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" >PDF</a> | 
       <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA">Code</a> | 
@@ -85,7 +85,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     </div>
 
     
-    <div style="color: #4F4F4F;font-size: 0.9em; margin: 6px 0 10px;">
+    <div style="color: #4F4F4F;font-size: 0.9em; margin: 6px 0 5px;">
       Arxiv | 
       <a href="#">PDF</a> | 
       <a href="#">Code</a> | 
