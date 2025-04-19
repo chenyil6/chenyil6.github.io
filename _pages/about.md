@@ -36,10 +36,20 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 (* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
 
 
-* Li Li\*, Jiawei Peng\*, **Huiyi Chen**\*, Chongyang Gao, and Xu Yang. [How to Configure Good In-Context Sequence for Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf) (CVPR 2024, Poster)
-
-The paper explores how to configure effective in-context sequences for Visual Question Answering (VQA) tasks to enhance the in-context learning (ICL) capabilities of Large Visual Language Models (LVLM). The paper elaborates on the role of different in-context configuration in LVLM and designs new configuration methods, providing valuable insights for optimizing LVLM’s ICL performance in VQA tasks.
-
+<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
+  <!-- 左侧图片 -->
+  <div style="flex: 30%; padding-right: 20px; min-width: 200px;">
+    <img src="/images/cvpr.jpg" 
+         style="width:100%; border:1px solid #eee; border-radius:4px;">
+  </div>
+  
+  <!-- 右侧论文信息 -->
+  <div style="flex: 70%;">
+    * ​**Li Li**​\*, ​**Jiawei Peng**​\*, ​**Huiyi Chen**​\*, Chongyang Gao, and Xu Yang.  
+    [How to Configure Good In-Context Sequence for Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf)  
+    * CVPR 2024 (Poster) | [PDF](#) | [Code](#) 
+  </div>
+</div>
 
 * **Huiyi Chen**, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang. Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization (Arxiv).
 
