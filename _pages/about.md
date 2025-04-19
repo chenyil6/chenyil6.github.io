@@ -45,14 +45,17 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 
   <!-- 右侧论文信息 -->
   <div style="flex: 1;">
-    <div style="font-weight: normal; color: #333; margin-bottom: 5px;">
-        Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
-    </div>
+    
     
     <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
         How to Configure Good In-Context Sequence for Visual Question Answering
     </div>
 
+    <div style="font-weight: normal; color: #333; margin-bottom: 5px;">
+        Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
+    </div>
+
+    
     <div style="color: #4D75C6; margin-bottom: 10px;">
       CVPR 2024 (Poster) | 
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" style="color: #4D75C6;">PDF</a> | 
@@ -62,10 +65,35 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   </div>
 </div>
 
+<div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
+  <!-- 纯图片展示区（无文字） -->
+  <div style="flex: 0 0 220px;">
+    <img src="/images/cvpr2024.jpg" 
+         style="width:100%; border-radius: 4px; border:1px solid #f0f0f0;">
+  </div>
 
-* **Huiyi Chen**, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang. Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization (Arxiv).
+  <!-- 右侧论文信息 -->
+  <div style="flex: 1;">
+    
+    
+    <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
+        Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
+    </div>
 
-The paper proposes a novel coreset construction framework, KeCO, for image classification tasks, aimed at enhancing the in-context learning capabilities of Large Vision-Language Models. KeCO leverages untapped data from the support set to aggregate category-relevant information into the coreset via feature-level updates. Notably, KeCO achieves strong performance in a simulated online scenario, demonstrating its practical applicability.
+    <div style="font-weight: normal; color: #333; margin-bottom: 5px;">
+        <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang
+    </div>
+
+    
+    <div style="color: #4D75C6; margin-bottom: 10px;">
+      Arxiv | 
+      <a href="#" style="color: #4D75C6;">PDF</a> | 
+      <a href="#" style="color: #4D75C6;">Code</a> | 
+    </div>
+
+  </div>
+</div>
+
 
 
 ## 🧩 Hobbies & Interests​
