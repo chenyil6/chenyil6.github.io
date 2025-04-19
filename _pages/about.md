@@ -43,4 +43,10 @@ The paper explores how to configure effective in-context sequences for Visual Qu
 The paper proposes a novel coreset construction framework, KeCO, for image classification tasks, aimed at enhancing the in-context learning capabilities of Large Vision-Language Models. KeCO leverages untapped data from the support set to aggregate category-relevant information into the coreset via feature-level updates. Notably, KeCO achieves strong performance in a simulated online scenario, demonstrating its practical applicability.
 
 
+## 🧩 Hobbies & Interests​
 
+In my free time, I enjoy reading, practicing digital art with Procreate, and watching films.
+
+* Books: I am a huge fan of ​Fredrik Backman’s works, especially *Britt-Marie Was Here*. The story of Mrs. Britt-Marie—a once-invisible homemaker who finally decides to drive alone to Paris, constantly encourages me. It inspires me to be 'the kind of person who jumps from the rock into the sea', reminding me that it's never too late to start a new life.
+
+* films: I am a super fan of Disney & Pixar, having watched almost every one of their classic movies, as well as their behind-the-scenes documentaries. My favorites include *Turning Red*, *Soul*, and *Inside Out* . There's a line from *Soul* that I particularly love: "I am going to live every minute of it."
