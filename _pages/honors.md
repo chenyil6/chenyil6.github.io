@@ -6,8 +6,8 @@ author_profile: true
 
 ## Scholarships (selected)
 
-* **Southeast University Second-Class Academic Scholarship (Top 10\%)**, China, *Nov. 2023*
-* **University-level first-class scholarship (Top 1\%)**, China, *2019-2023*
+* **Southeast University Second-Class Academic Scholarship (Top 10%)**, China, *Nov. 2023*
+* **University-level first-class scholarship (Top 1%)**, China, *2019-2023*
 * **Outstanding Student Award (Top 1%)**, China, *2019-2023*
 
 ## Competitions
