@@ -48,7 +48,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     
     <div style="margin-bottom: 8px; font-size: 1.1em;">
   <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" 
-     style="font-weight: 600; text-decoration: none; color: #000;">
+     style="font-weight: 600; text-decoration: none; ">
     How to Configure Good In-Context Sequence for Visual Question Answering
   </a>
     </div>
@@ -76,9 +76,11 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <!-- 右侧论文信息 -->
   <div style="flex: 1;">
     
-    
-    <div style="font-size: 1.1em; margin-bottom: 8px;>
-        <strong>Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization</strong>
+    <div style="margin-bottom: 8px; font-size: 1.1em;">
+  <a href="#" 
+     style="font-weight: 600; text-decoration: none; ">
+    Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
+  </a>
     </div>
 
     <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 5px;margin-top: 5px">
