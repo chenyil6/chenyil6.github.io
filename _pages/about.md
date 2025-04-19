@@ -47,8 +47,8 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <div style="flex: 1;">
     
     
-    <div style="font-size: 1.1em; margin-bottom: 8px; color: #333">
-        How to Configure Good In-Context Sequence for Visual Question Answering
+    <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
+        <strong>How to Configure Good In-Context Sequence for Visual Question Answering</strong>
     </div>
 
     <div style="font-weight: normal; color: #333; margin-bottom: 5px; margin-top: 5px">
@@ -56,7 +56,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     </div>
 
     
-    <div style="color: #4F4F4F; font-size: 0.9em; margin: 6px 0 5px;">
+    <div style="color: #456FC3; font-size: 0.9em; margin: 6px 0 5px;">
       CVPR 2024 (Poster) | 
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" >PDF</a> | 
       <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA">Code</a> | 
@@ -76,8 +76,8 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <div style="flex: 1;">
     
     
-    <div style="font-size: 1.1em; margin-bottom: 8px; color: #333">
-        Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
+    <div style="font-size: 1.1em; margin-bottom: 8px; color: #456FC3">
+        <strong>Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization</strong>
     </div>
 
     <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 5px;margin-top: 5px">
@@ -85,7 +85,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     </div>
 
     
-    <div style="color: #4F4F4F;font-size: 0.9em; margin: 6px 0 5px;">
+    <div style="color: #456FC3;font-size: 0.9em; margin: 6px 0 5px;">
       Arxiv | 
       <a href="#">PDF</a> | 
       <a href="#">Code</a> | 
