@@ -56,10 +56,10 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     </div>
 
     
-    <div style="color: #4D75C6; margin-bottom: 10px;">
+    <div style="color: #4F4F4F; font-size: 0.9em; margin: 6px 0 10px;">
       CVPR 2024 (Poster) | 
-      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" style="color: #4D75C6;">PDF</a> | 
-      <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA" style="color: #4D75C6;">Code</a> | 
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" >PDF</a> | 
+      <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA">Code</a> | 
     </div>
 
   </div>
@@ -68,7 +68,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 <div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
   <!-- 纯图片展示区（无文字） -->
   <div style="flex: 0 0 220px;">
-    <img src="/images/cvpr2024.jpg" 
+    <img src="/images/coreset.jpg" 
          style="width:100%; border-radius: 4px; border:1px solid #f0f0f0;">
   </div>
 
@@ -87,8 +87,8 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     
     <div style="color: #4F4F4F;font-size: 0.9em; margin: 6px 0 10px;">
       Arxiv | 
-      <a href="#" style="color: #4D75C6;">PDF</a> | 
-      <a href="#" style="color: #4D75C6;">Code</a> | 
+      <a href="#">PDF</a> | 
+      <a href="#">Code</a> | 
     </div>
 
   </div>
