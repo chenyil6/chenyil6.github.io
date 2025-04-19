@@ -36,20 +36,37 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 (* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
-  <!-- 左侧图片 -->
-  <div style="flex: 30%; padding-right: 20px; min-width: 200px;">
-    <img src="/images/cvpr.jpg" 
-         style="width:100%; border:1px solid #eee; border-radius:4px;">
+<div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
+  <!-- 左侧论文架构图 -->
+  <div style="flex: 0 0 220px; background: white; padding: 12px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <img src="/images/cvpr2024.jpg" 
+         alt="Vision Transformer Neuron Path Visualization" 
+         style="width:100%; border:1px solid #f0f0f0;">
+    <div style="font-size: 0.8em; color: #666; text-align: center; margin-top: 8px;">
+      <span style="background:#4a89dc; width:12px; height:12px; display:inline-block; vertical-align: middle;"></span> Selected Neuron
+    </div>
   </div>
-  
+
   <!-- 右侧论文信息 -->
-  <div style="flex: 70%;">
-    * ​**Li Li**​\*, ​**Jiawei Peng**​\*, ​**Huiyi Chen**​\*, Chongyang Gao, and Xu Yang.  
-    [How to Configure Good In-Context Sequence for Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf)  
-    * CVPR 2024 (Poster) | [PDF](#) | [Code](#) 
+  <div style="flex: 1;">
+    <div style="font-weight: 600; color: #333; margin-bottom: 5px;">
+      Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <u>Huiyi Chen</u><sup>*</sup>, Chongyang Gao, Xu Yang
+    </div>
+    
+    <div style="font-size: 1.1em; margin-bottom: 8px;">
+        How to Configure Good In-Context Sequence for Visual Question Answering
+      </a>
+    </div>
+
+    <div style="color: #6a737d; margin-bottom: 10px;">
+      <em>CVPR 2024 (Poster)</em> | 
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" style="color: #586069;">PDF</a> | 
+      <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA" style="color: #586069;">Code</a> | 
+    </div>
+
   </div>
 </div>
+
 
 * **Huiyi Chen**, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang. Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization (Arxiv).
 
