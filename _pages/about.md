@@ -40,7 +40,6 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <!-- 左侧论文架构图 -->
   <div style="flex: 0 0 220px; background: white; padding: 12px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
     <img src="/images/cvpr2024.jpg" 
-         alt="Vision Transformer Neuron Path Visualization" 
          style="width:100%; border:1px solid #f0f0f0;">
     <div style="font-size: 0.8em; color: #666; text-align: center; margin-top: 8px;">
       <span style="background:#4a89dc; width:12px; height:12px; display:inline-block; vertical-align: middle;"></span> Selected Neuron
