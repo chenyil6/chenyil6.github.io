@@ -80,12 +80,12 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
         Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
     </div>
 
-    <div style="font-weight: normal; color: #333; margin-bottom: 5px;">
+    <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 5px;">
         <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang
     </div>
 
     
-    <div style="color: #4D75C6; margin-bottom: 10px;">
+    <div style="color: #4F4F4F;font-size: 0.9em; margin: 6px 0 10px;">
       Arxiv | 
       <a href="#" style="color: #4D75C6;">PDF</a> | 
       <a href="#" style="color: #4D75C6;">Code</a> | 
