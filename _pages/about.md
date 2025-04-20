@@ -105,4 +105,4 @@ In my free time, I enjoy reading, practicing digital art with Procreate, and wat
 
 * Books: I am a huge fan of ​Fredrik Backman’s works, especially *Britt-Marie Was Here*. The story of Mrs. Britt-Marie—a once-invisible homemaker who finally decides to drive alone to Paris, constantly encourages me. It inspires me to be 'the kind of person who jumps from the rock into the sea', reminding me that it's never too late to start a new life.
 
-* films: I am a super fan of Disney & Pixar, having watched almost every one of their classic movies, as well as their behind-the-scenes documentaries. My favorites include *Turning Red*, *Soul*, and *Inside Out* . There's a line from *Soul* that I particularly love: "I am going to live every minute of it."
+* films: I am a super fan of Disney & Pixar, having watched almost every one of their classic movies, as well as their behind-the-scenes documentaries. My favorites include *Turning Red*, *Soul*, and *Inside Out* . There's a line from *Turning Red* that particularly moved me, when Meimei's mother tells her: "The farther you go, the prouder I will be."
