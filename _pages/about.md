@@ -53,11 +53,11 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   </a>
     </div>
 
-    <div style="font-weight: normal; color: #333; margin-bottom: 10px; margin-top: 5px">
+    <div style="font-weight: normal; color: #333; margin-bottom: 10px; ">
         Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
     </div>
 
-    <div style="color: #333; font-size: 0.9em; margin: 6px 0 5px;">
+    <div style="color: #333; font-size: 0.9em; ">
       CVPR 2024 (Poster) | 
       <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" >PDF</a> | 
       <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA">Code</a> | 
@@ -83,12 +83,12 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   </a>
     </div>
 
-    <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 10px;margin-top: 5px">
+    <div style="font-weight: normal; font-size: 1.0em color: #333; margin-bottom: 10px;">
         <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang
     </div>
 
     
-    <div style="color: #333;font-size: 0.9em; margin: 6px 0 5px;">
+    <div style="color: #333;font-size: 0.9em;">
       Arxiv | 
       <a href="#">PDF</a> | 
       <a href="#">Code</a> | 
