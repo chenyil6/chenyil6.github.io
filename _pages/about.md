@@ -53,7 +53,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   </a>
     </div>
 
-    <div style="font-weight: normal; color: #333; margin-bottom: 15px;">
+    <div style="font-weight: normal; color: #333; margin-bottom: 20px;">
         Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
     </div>
 
@@ -83,7 +83,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   </a>
     </div>
 
-    <div style="font-weight: normal; font-size: 1.0em; color: #333;margin-bottom: 15px;">
+    <div style="font-weight: normal; font-size: 1.0em; color: #333;margin-bottom: 20px;">
         <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang
     </div>
 
