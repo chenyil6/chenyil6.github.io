@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Second-year Master student at the Joint Graduate School (Double degree) of [Southeast University](https://www.seu.edu.cn/) and [Monash University](https://www.monash.edu/), advised by Prof. [Xu Yang](https://yangxuntu.github.io/). Previously, I received my Bachelor's degree from Nanchang Hangkong University in June 2023.
+I am a Second-year Master student at the Joint Graduate School (Double degree) of [Southeast University](https://www.seu.edu.cn/) and [Monash University](https://www.monash.edu/), advised by Prof. [Xu Yang](https://yangxuntu.github.io/). 
 
 I’m currently looking for PhD position start from 2026 fall. If you are interested, please feel free to contact me. Here is my [resume](https://chenyil6.github.io/files/Huiyi_Chen_CV.pdf).
 
