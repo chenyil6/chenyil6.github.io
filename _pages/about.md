@@ -38,9 +38,9 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 
 <div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
   <!-- 纯图片展示区（无文字） -->
-  <div style="flex: 0 0 220px;">
+  <div style="flex: 0 0 220px;  height: 160px; border-radius: 4px; border:1px;solid #f0f0f0;">
     <img src="/images/cvpr2024.jpg" 
-         style="width:100%; border-radius: 4px; border:1px solid #f0f0f0;">
+         style="width:100%;  height: 100%; ">
   </div>
 
   <!-- 右侧论文信息 -->
@@ -68,16 +68,16 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 
 <div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
   <!-- 纯图片展示区（无文字） -->
-  <div style="flex: 0 0 220px;">
+  <div style="flex: 0 0 220px;  height: 160px; border-radius: 4px; border:1px; solid #f0f0f0;">
     <img src="/images/coreset.jpg" 
-         style="width:100%; border-radius: 4px; border:1px solid #f0f0f0;">
+         style="width:100%;   height: 100%;">
   </div>
 
   <!-- 右侧论文信息 -->
   <div style="flex: 1;">
     
     <div style="margin-bottom: 10px; font-size: 1.1em;">
-  <a href="#" 
+  <a href="https://arxiv.org/pdf/2504.14200" 
      style="font-weight: 600; text-decoration: none; ">
     Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
   </a>
@@ -90,7 +90,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     
     <div style="color: #333;font-size: 0.9em;">
       Arxiv | 
-      <a href="#">PDF</a> | 
+      <a href="https://arxiv.org/pdf/2504.14200">PDF</a> | 
       <a href="#">Code</a> 
     </div>
 
