@@ -15,7 +15,7 @@ My research interests lie at:
 
 * In-context learning (ICL)
 * Large vision-language model (LVLM)
-* Retrieval-Augmented Generation (RAG)
+* Multimodal Retrieval-Augmented Generation (MRAG)
 
 ## 🎓 Education
 
