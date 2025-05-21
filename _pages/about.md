@@ -91,7 +91,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     <div style="color: #333;font-size: 0.9em;">
       Preprint | 
       <a href="https://arxiv.org/pdf/2504.14200">PDF</a> | 
-      Code
+      <a href="https://github.com/chenyil6/KeCO_Coreset_Optimization">Code</a> 
     </div>
 
   </div>
