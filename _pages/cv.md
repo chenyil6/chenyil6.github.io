@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-**My continuously updated PDF resume/CV can be found at [link](https://chenyil6.github.io/files/Huiyi_Chen_CV.pdf).**
+**My continuously updated PDF resume/CV can be found at [link](https://chenyil6.github.io/files/Huiyi_Chen_CV (3).pdf).**
 
 
 
