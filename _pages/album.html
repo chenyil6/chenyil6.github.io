@@ -5,7 +5,7 @@ permalink: /album/
 author_profile: true
 ---
 
-## 🎨 
+🎨 
 
 <div class="image-grid">
   <!-- 10 张画按顺序填路径 -->
@@ -21,16 +21,9 @@ author_profile: true
   <img src="/images/drawings/procreate_10.png" alt="Drawing 10">
 </div>
 
----
 
-## 🌍 
 
-<div class="image-grid">
-  <!-- 后续再填旅行照片 -->
-  <!-- <img src="/images/travel/photo1.jpg" alt="Travel 1">
-  <img src="/images/travel/photo2.jpg" alt="Travel 2"> -->
-  <!-- ... -->
-</div>
+🌍 
 
 <style>
 /* 放在页面底部，让 .image-grid 生效 */
@@ -43,7 +36,12 @@ author_profile: true
 .image-grid img {
   width: 100%;
   height: auto;
+  /* 新增边框样式，颜色可根据需要调整，这里用浅色示例 */
+  border: 2px solid #eaeaea; 
   border-radius: 4px;
+  /* 让图片在边框内居中，先设为块级元素 */
+  display: block; 
+  margin: 0 auto;
   object-fit: cover;
 }
 </style>
