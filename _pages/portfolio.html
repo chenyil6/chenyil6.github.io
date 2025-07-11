@@ -5,10 +5,36 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-{% include base_path %}
 
+<div class="project-feature">
+  <!-- 项目标题 -->
+  <h2 style="margin-bottom: 0.5em; color: #2d3748; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.3em;">
+    BookRecord
+  </h2>
+  
+  <!-- 图片展示 -->
+  <img src="/images/bookrecord.jpg" alt="BookRecord Screenshot" style="max-width: 80%; border: 1px solid #eee; margin-bottom: 1em;">
+  
+  <!-- 文字描述 + 可点击的GitHub链接 -->
+  <p style="font-size: 1.1em; line-height: 1.6;">
+    <a href="https://github.com/chenyil6/BookRecord" target="_blank" style="font-weight: bold; color: #0366d6;">BookRecord</a> 
+    is a dedicated reading tracker for those who cherish paper-based books. It bridges the gap for lovers of physical books by offering tools for manually tracking reading progress, logging notes, and analyzing reading habits over time.
+  </p>
+</div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="project-feature">
+  <!-- 项目标题 -->
+  <h2 style="margin-bottom: 0.5em; color: #2d3748; border-bottom: 2px solid #e2e8f0; padding-bottom: 0.3em;">
+    PixTag
+  </h2>
+  
+  <!-- 图片展示 -->
+  <img src="/images/PixTag.jpg" alt="PixTag Screenshot" style="max-width: 80%; border: 1px solid #eee; margin-bottom: 1em;">
+  
+  <!-- 文字描述 + 可点击的GitHub链接 -->
+  <p style="font-size: 1.1em; line-height: 1.6;">
+    <a href="https://github.com/JellyPuddingJam/FIT5225" target="_blank" style="font-weight: bold; color: #0366d6;">PixTag</a> 
+    is an AWS-based online system that allows users to store and retrieve images based on auto-generated and manual tags. The focus of this project is to design a serverless application that enables clients to upload their images to public cloud storage. Upon image upload, the application automatically tags the image with the objects detected in it, such as person, car, etc. Later on, users can
+also modify and add new tags to the images. They can also query images based on the objects present in them. 
+  </p>
+</div>
