@@ -1,56 +1,108 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me - Huiyi Chen, 陈慧仪"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Second-year Master student at the Joint Graduate School (Double degree) of [Southeast University](https://www.seu.edu.cn/) and [Monash University](https://www.monash.edu/), advised by Prof. [Xu Yang](https://yangxuntu.github.io/). 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I’m currently looking for PhD position start from 2026 fall. If you are interested, please feel free to contact me. Here is my [resume](https://chenyil6.github.io/files/Huiyi_Chen_CV_3.pdf).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+My research interests lie at:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* In-context learning (ICL)
+* Large vision-language model (LVLM)
+* Multimodal Retrieval-Augmented Generation (MRAG)
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## 🎓 Education
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Southeast University , *09/2023 - present*
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+* Mphil. in Artificial Intelligence. Advisor: [Xu Yang](https://yangxuntu.github.io/)
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Monash University , *09/2022 - present*
 
-**Markdown generator**
+* M.S. in Information Technology Systems.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+Nanchang Hangkong University , *09/2019 - 06/2023*
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+* B.S. in Network Engineering.
+  
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## 📝 Publications and Preprints
+(* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+<div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
+  <!-- 纯图片展示区（无文字） -->
+  <div style="flex: 0 0 220px;  height: 160px; border-radius: 4px; border:1px;solid #f0f0f0;">
+    <img src="/images/cvpr2024.jpg" 
+         style="width:100%;  height: 100%; ">
+  </div>
+
+  <!-- 右侧论文信息 -->
+  <div style="flex: 1;">
+    
+    <div style="margin-bottom: 10px; font-size: 1.1em;">
+  <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" 
+     style="font-weight: 600; text-decoration: none; ">
+    How to Configure Good In-Context Sequence for Visual Question Answering
+  </a>
+    </div>
+
+    <div style="font-weight: normal; color: #333; margin-bottom: 30px; ">
+        Li Li<sup>*</sup>, Jiawei Peng<sup>*</sup>, <strong style="font-weight: 600;">Huiyi Chen</strong><sup>*</sup>, Chongyang Gao, Xu Yang
+    </div>
+
+    <div style="color: #333; font-size: 0.9em;">
+      CVPR 2024 (Poster) | 
+      <a href="https://openaccess.thecvf.com/content/CVPR2024/papers/Li_How_to_Configure_Good_In-Context_Sequence_for_Visual_Question_Answering_CVPR_2024_paper.pdf" >PDF</a> | 
+      <a href="https://github.com/GaryJiajia/OFv2_ICL_VQA">Code</a> 
+    </div>
+
+  </div>
+</div>
+
+<div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
+  <!-- 纯图片展示区（无文字） -->
+  <div style="flex: 0 0 220px;  height: 160px; border-radius: 4px; border:1px; solid #f0f0f0;">
+    <img src="/images/coreset.jpg" 
+         style="width:100%;   height: 100%;">
+  </div>
+
+  <!-- 右侧论文信息 -->
+  <div style="flex: 1;">
+    
+    <div style="margin-bottom: 10px; font-size: 1.1em;">
+  <a href="https://arxiv.org/pdf/2504.14200" 
+     style="font-weight: 600; text-decoration: none; ">
+    Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization
+  </a>
+    </div>
+
+    <div style="font-weight: normal; color: #333;margin-bottom: 30px;">
+        <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang
+    </div>
+
+    
+    <div style="color: #333;font-size: 0.9em;">
+      Preprint | 
+      <a href="https://arxiv.org/pdf/2504.14200">PDF</a> | 
+      <a href="https://github.com/chenyil6/KeCO_Coreset_Optimization">Code</a> 
+    </div>
+
+  </div>
+</div>
+
+
+
+## 🧩 Hobbies & Interests​
+
+In my free time, I enjoy reading, practicing digital art with Procreate, and watching films.
+
+* Books: I am a huge fan of ​Fredrik Backman’s works, especially *Britt-Marie Was Here*. The story of Mrs. Britt-Marie—a once-invisible homemaker who finally decides to drive alone to Paris, constantly encourages me. It inspires me to be 'the kind of person who jumps from the rock into the sea', reminding me that it's never too late to start a new life.
+
+* films: I am a super fan of Disney & Pixar, having watched almost every one of their classic movies, as well as their behind-the-scenes documentaries. My favorites include *Turning Red*, *Soul*, and *Inside Out* . There's a line from *Turning Red* that particularly moved me, when Meimei's mother tells her: "The farther you go, the prouder I will be."
