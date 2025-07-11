@@ -14,7 +14,7 @@ author_profile: true
 
 
 ### 2025
-* **Huiyi Chen**, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang. Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization (Arxiv).
+* **Huiyi Chen**, Jiawei Peng, Kaihua Tang, Xin Geng, Xu Yang. Enhancing Multimodal In-Context Learning for Image Classification through Coreset Optimization (ACMMM 2025, Poster).
 
 The paper proposes a novel coreset construction framework, KeCO, for image classification tasks, aimed at enhancing the in-context learning capabilities of Large Vision-Language Models. KeCO leverages untapped data from the support set to aggregate category-relevant information into the coreset via feature-level updates. Notably, KeCO achieves strong performance in a simulated online scenario, demonstrating its practical applicability.
 
