@@ -23,9 +23,6 @@ Southeast University , *09/2023 - present*
 
 * Mphil. in Artificial Intelligence. Advisor: [Xu Yang](https://yangxuntu.github.io/)
 
-Monash University , *09/2022 - present*
-
-* M.S. in Information Technology Systems.
 
 Nanchang Hangkong University , *09/2019 - 06/2023*
 
@@ -97,6 +94,37 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   </div>
 </div>
 
+<div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
+  <!-- 纯图片展示区（无文字） -->
+  <div style="flex: 0 0 220px;  height: 160px; border-radius: 4px; border:1px; solid #f0f0f0;">
+    <img src="/images/coreset.jpg" 
+         style="width:100%;   height: 100%;">
+  </div>
+
+  <!-- 右侧论文信息 -->
+  <div style="flex: 1;">
+    
+    <div style="margin-bottom: 10px; font-size: 1.1em;">
+  <a href="https://arxiv.org/pdf/2504.14200" 
+     style="font-weight: 600; text-decoration: none; ">
+    MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to  Misleading Visual Inputs in LVLMs
+  </a>
+    </div>
+
+    <div style="font-weight: normal; color: #333;margin-bottom: 30px;">
+        <strong style="font-weight: 600;">Huiyi Chen</strong>, Jiawei Peng, Dehai Min, Changchang Sun, Kaijie Chen, Yan Yan, Xu Yang, Lu Cheng
+    </div>
+
+    
+    <div style="color: #333;font-size: 0.9em;">
+     Preprinted |  
+      <a href="https://arxiv.org/pdf/2511.14159">PDF</a> |  
+      <a href="https://github.com/chenyil6/MVI-Bench">Code</a> 
+    </div>
+
+  </div>
+</div>
+
 
 
 ## 🧩 Hobbies & Interests​
@@ -105,4 +133,4 @@ In my free time, I enjoy reading, practicing digital art with Procreate, and wat
 
 * Books: I am a huge fan of ​Fredrik Backman’s works, especially *Britt-Marie Was Here*. The story of Mrs. Britt-Marie—a once-invisible homemaker who finally decides to drive alone to Paris, constantly encourages me. It inspires me to be 'the kind of person who jumps from the rock into the sea', reminding me that it's never too late to start a new life.
 
-* films: I am a super fan of Disney & Pixar, having watched almost every one of their classic movies, as well as their behind-the-scenes documentaries. My favorites include *Turning Red*, *Soul*, and *Inside Out* . There's a line from *Turning Red* that particularly moved me, when Meimei's mother tells her: "The farther you go, the prouder I will be."
+* Films: I am a super fan of Disney & Pixar, having watched almost every one of their classic movies, as well as their behind-the-scenes documentaries. My favorites include *Turning Red*, *Soul*, and *Inside Out* . There's a line from *Turning Red* that particularly moved me, when Meimei's mother tells her: "The farther you go, the prouder I will be."
