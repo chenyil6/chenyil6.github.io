@@ -97,7 +97,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 <div style="display: flex; gap: 20px; margin-bottom: 2em; align-items: flex-start;">
   <!-- 纯图片展示区（无文字） -->
   <div style="flex: 0 0 220px;  height: 160px; border-radius: 4px; border:1px; solid #f0f0f0;">
-    <img src="/images/coreset.jpg" 
+    <img src="/images/MVI-Bench.png" 
          style="width:100%;   height: 100%;">
   </div>
 
