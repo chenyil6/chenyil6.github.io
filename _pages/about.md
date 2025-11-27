@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Second-year Master student at [Southeast University](https://www.seu.edu.cn/), advised by Prof. [Xu Yang](https://yangxuntu.github.io/). 
+I am a third-year Master student at [Southeast University](https://www.seu.edu.cn/), advised by Prof. [Xu Yang](https://yangxuntu.github.io/). 
 
 I’m currently looking for PhD position start from 2026 fall. If you are interested, please feel free to contact me. Here is my [resume](https://chenyil6.github.io/files/Huiyi_Chen_CV_new.pdf).
 
@@ -105,7 +105,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   <div style="flex: 1;">
     
     <div style="margin-bottom: 10px; font-size: 1.1em;">
-  <a href="https://arxiv.org/pdf/2504.14200" 
+  <a href="https://arxiv.org/pdf/2511.14159" 
      style="font-weight: 600; text-decoration: none; ">
     MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to  Misleading Visual Inputs in LVLMs
   </a>
