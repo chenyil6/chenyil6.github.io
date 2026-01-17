@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Huiyi Chen, 陈慧仪"
 title_separator          : "-"
 name                     : &name "Huiyi Chen"
-description              : &description "M.S.@ SEU & Monash"
+description              : &description "M.S.@ Southeast University"
 url                      : https://chenyil6.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyil6.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "pro.png"
   name             : "Huiyi Chen"
   pronouns         : # example: "she/her"  
-  bio              : "M.S.@ SEU & Monash"
+  bio              : "M.S.@ Southeast University"
   location         : "Nanjing, China"
   employer         : 
   uri              : # URL
-  email            : "hche0278@student.monash.edu" 
+  email            : "huiyichen@seu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
