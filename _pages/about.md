@@ -29,6 +29,14 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
 
 * B.S. in Network Engineering.
   
+## 💼 Internship
+
+**Alibaba Group** , *01/2026 - present*
+
+* Research Intern. 
+* Focusing on **Video Understanding** in Multimodal Large Language Models (MLLMs). 
+* If you are interested in collaboration, please feel free to [contact me](mailto:huiyichen@seu.edu.cn).
+
 
 ## 📝 Publications and Preprints
 (* Refers to the authors having the equal contribution, and should be considered as co-first authors.)
