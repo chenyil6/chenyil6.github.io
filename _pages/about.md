@@ -42,8 +42,7 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
     <strong style="font-size: 1.1em;">Alibaba Group</strong> , <i>01/2026 - present</i>
     <ul>
       <li>Research Intern.</li>
-      <li>Focusing on <strong>Video Understanding</strong> in Multimodal Large Language Models (MLLMs).</li>
-      <li>If you are interested in collaboration, please feel free to <a href="mailto:huiyichen@seu.edu.cn">contact me</a>.</li>
+      <li>Focusing on <strong>Video Understanding</strong> in Multimodal Large Language Models (MLLMs).If you are interested in collaboration, please feel free to contact me</li>
     </ul>
   </div>
 </div>
