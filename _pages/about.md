@@ -31,18 +31,21 @@ Nanchang Hangkong University , *09/2019 - 06/2023*
   
 ## 💼 Internship
 
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-  <!-- 左侧图片 -->
-  <div style="flex: 0 0 120px;">
-    <img src="/images/alibaba.png" style="width:100%; border-radius: 4px;">
+<div style="display: flex; gap: 30px; align-items: center; margin-top: 1.5em; margin-bottom: 2em;">
+  <!-- 左侧图片：增大到 160px 并添加阴影增加质感 -->
+  <div style="flex: 0 0 160px;">
+    <img src="/images/alibaba.png" style="width:100%; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
   </div>
 
   <!-- 右侧内容 -->
   <div style="flex: 1;">
-    <strong style="font-size: 1.1em;">Alibaba Group</strong> , <i>01/2026 - present</i>
-    <ul>
+    <div style="margin-bottom: 12px;">
+      <strong style="font-size: 1.2em;">Alibaba Group</strong>, <i style="color: #666;">01/2026 - Present</i>
+    </div>
+    <ul style="line-height: 1.6;">
       <li>Research Intern.</li>
-      <li>Focusing on <strong>Video Understanding</strong> in Multimodal Large Language Models (MLLMs).If you are interested in collaboration, please feel free to contact me</li>
+      <li>Focusing on <strong>Video Understanding</strong> in Multimodal Large Language Models (MLLMs).</li>
+      <li>If you are interested in collaboration, please feel free to <a href="mailto:huiyichen@seu.edu.cn">contact me</a>.</li>
     </ul>
   </div>
 </div>
